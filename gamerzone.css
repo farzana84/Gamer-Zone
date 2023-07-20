@@ -1,0 +1,54 @@
+.logo{
+    width: 86.041px;
+height: 40px;
+}
+
+nav{
+display:flex;
+justify-content: space-between;
+align-items: center;
+}
+nav li{
+    list-style: none;
+}
+nav ul{
+    display: flex;
+    align-items: center;
+   
+}
+li{
+    
+}
+.nav-content{
+    margin: 0;
+    gap: 15px;
+    width: 262px;
+height: 56px;
+border-radius: 8px;
+background: rgba(11, 2, 35, 0.10);
+text-align: center;
+}
+.paragraph{
+    color:black;
+text-align: center;
+font-family: Work Sans;
+font-size: 18px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+text-decoration: none;
+}
+.list-item{
+    text-decoration: none;
+   margin: 15px;
+}
+.highlight{
+ color:#FF42A5;
+}
+.nav-title{
+    font-family: Work Sans;
+font-size: 45px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
